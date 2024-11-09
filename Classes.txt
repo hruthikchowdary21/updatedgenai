@@ -1,0 +1,32 @@
+Date: 10/17/2024
+
+Data Clusters
+-->Association: relation b'w 2 variables
+-->Dependence: how the variable is depended on the other
+-->Corelation: measure of dependency in form
+-->Causation: 
+-->Co-Variance: If one variable changes, the other one changes too
+-->Simpson Paradox: If a single group of data proves one trend, but when taken a large group of data, the trend will be wrong
+-->Clustering Techniques: 
+
+Data Testing: 
+-->Parametric Testing: Testing the data based on the distributions if known
+-->Non Parametric: Quite opp to parametric
+-->A/B Testing: testing in a controlled environment
+-->Chi Square Testing: determine a significant relation b'w 2 categorized variables
+
+Date: 10/18/2024
+
+Regression: finding the best way to draw a line (or a curve) through a bunch of data points to help you predict something or understand the relationship between things.
+-->Linear regression: relationship b/w dependent & independent variables in a linear eqn (y=mx+c)
+-->Logistic regression: classification b/w components (generally yes or no, lies b/w the limit or not etc.,)
+-->Colinearity: 
+-->Residual: difference b/w actual & observed value
+-->Residual analysis: Hetero & Homo
+
+Date: 10/30/2024
+
+
+Machine Learning:
+
+Types of 
